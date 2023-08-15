@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //importing Scanner feature
 
     public class sourceCode {
 
